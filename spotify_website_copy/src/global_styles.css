@@ -1,0 +1,36 @@
+/* Sub = Gray */
+.sub_text {
+  font-weight: regular; /* Custom font weight */
+  color: #b4b4b4; /* Custom text color */
+  font-size: 11px; /* Custom font size */
+}
+
+.tiny_text {
+  font-weight: 450; /* Custom font weight */
+  color: #ffffff; /* Custom text color */
+  font-size: 14px; /* Custom font size */
+}
+
+.small_text {
+  font-weight: 500; /* Custom font weight */
+  color: #ffffff; /* Custom text color */
+  font-size: 18px; /* Custom font size */
+}
+
+.small_header {
+  font-weight: bold; /* Custom font weight */
+  color: #ffffff; /* Custom text color */
+  font-size: 24px; /* Custom font size */
+}
+
+.sub_small_header {
+  font-weight: bold; /* Custom font weight */
+  color: #b4b4b4; /* Custom text color */
+  font-size: 24px; /* Custom font size */
+}
+
+.icon {
+  width: 1.5rem; /* Equivalent to w-6 (assuming default font size is 1rem) */
+  height: 1.5rem; /* Equivalent to h-6 (assuming default font size is 1rem) */
+  object-fit: contain; /* Equivalent to object-contain */
+}
